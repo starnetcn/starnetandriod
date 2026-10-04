@@ -1,2 +1,2 @@
 # starnetandriod
-andriod client based on Nekobox
+Andriod client
